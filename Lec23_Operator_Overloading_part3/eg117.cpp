@@ -24,7 +24,7 @@ public:
 
 int main()
 {
-    Bulb g = 60; // this line is also get converted into this Bulb g(60); likt that by compiler
+    Bulb g = 60; // this line is also get converted into this Bulb g(60); done by compiler
     cout << g.getWattage() << endl;
     return 0;
 }

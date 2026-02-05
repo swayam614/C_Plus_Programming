@@ -28,10 +28,10 @@ public:
         cout << "Copy Constructor is invoked" << endl;
         this->wattage = v.wattage;
     }
-    Bulb &operator=(const Bulb &other)
+    Bulb &operator=(int wattage)
     {
         cout << "operator= got invoked" << endl;
-        this->wattage = other.wattage;
+        this->wattage = wattage; 
         return *this;
     }
 };

@@ -11,7 +11,7 @@ public:
         this->wattage = wattage;
     }
     int getWattage()
-    {
+    { 
         return this->wattage;
     }
     Bulb()

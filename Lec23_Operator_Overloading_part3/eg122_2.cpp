@@ -18,6 +18,11 @@ public:
     {
         cout << "Default Constructor is invoked" << endl;
     }
+    Bulb(int wattage)
+    {
+        cout << "Parameterized contructor got invoked" << endl;
+        this->wattage = wattage;
+    }
     Bulb(const Bulb &v)
     {
         cout << "Copy Constructor is invoked" << endl;
