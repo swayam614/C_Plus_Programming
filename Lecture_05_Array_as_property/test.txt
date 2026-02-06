@@ -1,0 +1,15 @@
+https://leetcode.com/problems/validate-stack-sequences/description/?envType=problem-list-v2&envId=stack
+https://leetcode.com/problems/remove-k-digits/?envType=problem-list-v2&envId=stack
+https://leetcode.com/problems/count-of-smaller-numbers-after-self/?envType=problem-list-v2&envId=binary-search
+https://leetcode.com/problems/132-pattern/description/?envType=problem-list-v2&envId=stack
+https://leetcode.com/problems/online-stock-span/description/?envType=problem-list-v2&envId=stack
+https://leetcode.com/problems/next-greater-element-ii/description/?envType=problem-list-v2&envId=stack
+https://leetcode.com/problems/maximal-rectangle/description/?envType=problem-list-v2&envId=stack
+https://leetcode.com/problems/largest-rectangle-in-histogram/description/?envType=problem-list-v2&envId=stack
+https://leetcode.com/problems/trapping-rain-water/description/?envType=problem-list-v2&envId=stack
+https://leetcode.com/problems/beautiful-towers-i/description/?envType=problem-list-v2&envId=stack
+https://leetcode.com/problems/beautiful-towers-ii/description/?envType=problem-list-v2&envId=stack
+https://leetcode.com/problems/design-circular-deque/description/?envType=problem-list-v2&envId=queue
+https://leetcode.com/problems/sliding-window-maximum/description/?envType=problem-list-v2&envId=queue
+https://leetcode.com/problems/count-subarrays-with-fixed-bounds/description/?envType=problem-list-v2&envId=queue
+https://leetcode.com/problems/finding-mk-average/description/?envType=problem-list-v2&envId=queue
